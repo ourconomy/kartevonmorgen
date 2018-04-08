@@ -1,3 +1,5 @@
+### Update: Starting from April 2018, this is no longer the latest repository. Please go to [https://github.com/ourconomy/ourconomy](https://github.com/ourconomy/ourconomy) for the current development.
+
 # The products and services version of Karte von morgen
 
 This custom version of [Karte von morgen](https://github.com/flosse/kartevonmorgen) brings products and services to your sustainable world.  
